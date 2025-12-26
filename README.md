@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif"  />
+
 
 ###
 
@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
-
+<img align="right" height="150" src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif"  />
 <a href="https://music-profile.rayriffy.com">
   <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045" width="250"/>
 </a>
