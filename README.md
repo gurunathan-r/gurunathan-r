@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gurunathan R and I love Computers</h2>
+<h2 align="left">Hi 👋 I’m Gurunathan R — driven by curiosity for computers, cybersecurity, and how systems really work under the hood.</h2>
 
 ---
 
