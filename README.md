@@ -80,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045)](https://music-profile.rayriffy.com)
+
 ###
 
 <br clear="both">
