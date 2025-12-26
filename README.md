@@ -78,11 +78,13 @@
 
 <!-- MUSIC + GROOT (SIDE BY SIDE, SAME SIZE) -->
 <div align="left">
-  <img src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif" height="120"/>
-  <img width="20"/>
+  
   <a href="https://music-profile.rayriffy.com">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045" height="120"/>
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045" height="200"/>
   </a>
+
+  <img src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif" height="200"/>
+  <img width="20"/>
 </div>
 
 ---
