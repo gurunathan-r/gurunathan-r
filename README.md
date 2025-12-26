@@ -80,10 +80,10 @@
 <div align="left">
   
   <a href="https://music-profile.rayriffy.com">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045" height="200"/>
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045" height="250"/>
   </a>
 
-  <img src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif" height="200"/>
+  <img src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif" height="250"/>
   <img width="20"/>
 </div>
 
