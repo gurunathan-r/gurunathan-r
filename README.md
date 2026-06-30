@@ -23,7 +23,7 @@
 ### 🎵 Currently Vibing To
 
 <p align="left">
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045)](https://music-profile.rayriffy.com)&nbsp;&nbsp;<img src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif" height="250"/>
+<a href="https://music-profile.rayriffy.com"><img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001794.def5b3add5e04c2b9559f50e53f8462a.0045" height="250"/></a>&nbsp;&nbsp;<img src="https://media.tenor.com/aOLfmFpJSYEAAAAj/i-am-groot-marvel-studios.gif" height="250"/>
 </p>
 
 ---
